@@ -20,9 +20,9 @@ I am a first-year PhD student in Linguistics at Boston University. Before that, 
 
 - Jun. 2026. *Distinguishing Number and Degree in Mandarin*. Talk at TEAL-15, The Chinese University of Hong Kong.
 
-- Nov. 2025. *A Unified Semantics of the Wh-Numeral *jı̌* in Mandarin*. Talk at ICFL 2025, Guangdong University of Foreign Studies.
+- Nov. 2025. *A Unified Semantics of the Wh-Numeral* jı̌ *in Mandarin*. Talk at ICFL 2025, Guangdong University of Foreign Studies.
 
-- Sep. 2025. *Approximation via comparison: Mandarin *duō* in numerical expressions*. Talk at TripleA12, Tokyo University of Foreign Studies. [With Xuping Li]
+- Sep. 2025. *Approximation via comparison: Mandarin* duō *in numerical expressions*. Talk at TripleA12, Tokyo University of Foreign Studies. [With Xuping Li]
 
 - Apr. 2024. *Too many MANYs? Two MANYs only!*. Talk at The 3rd Symposium on Formal Approaches to Meaning in Chinese, Zhejiang University.
 
