@@ -17,7 +17,7 @@ I am a first-year PhD student in Linguistics at Boston University. Before that, 
 
 ## Presentations
 
-- Sep. 2026. *Ignorance, domain restriction and the Mandarin* wh-*indefinite numeral* jı̌. Poster at SuB31, Nantes Université. **Accepted, but not presented** [Abstract (pp. 114-116)](https://drive.google.com/file/d/1UgCzqvnksUYZynWRATe0vBuCVmCGP6Vp/view) [Poster](assets/files/wh-ji_SuB31_poster.pdf)
+- Sep. 2026. *Ignorance, domain restriction and the Mandarin* wh-*indefinite numeral* jı̌. Poster at SuB31, Nantes Université. [Accepted, but not presented] [[Abstract (pp. 114-116)]](https://drive.google.com/file/d/1UgCzqvnksUYZynWRATe0vBuCVmCGP6Vp/view) | [[Poster]](assets/files/wh-ji_SuB31_poster.pdf)
 
 - Jun. 2026. *Distinguishing Number and Degree in Mandarin*. Talk at TEAL-15, The Chinese University of Hong Kong.
 
