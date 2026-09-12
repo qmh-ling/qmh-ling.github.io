@@ -8,9 +8,8 @@ I am a first-year PhD student in Linguistics at Boston University. Before that, 
 
 ## Research Interests
 
-**Broad:** Formal semantics, Generative syntax
-
-**Narrow:**: Degree semantics, adjectives, numerals, *wh*-indefinites, incrementality
+**Broad:** Formal semantics, Generative syntax  
+**Narrow:** Degree semantics, adjectives, numerals, *wh*-indefinites, incrementality
 
 ## Publications
 
