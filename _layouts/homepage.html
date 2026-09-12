@@ -45,6 +45,10 @@
 
         <h1>{{ site.title }}</h1>
 
+        {% if site.name_native %}
+        <div style="font-size:1.05rem; margin-top:-8px; margin-bottom:10px;">{{ site.name_native }}</div>
+        {% endif %}
+
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
