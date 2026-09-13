@@ -17,15 +17,15 @@ I am a first-year PhD student in Linguistics at Boston University. Before that, 
 
 ## Presentations
 
-- Sep. 2026. *Ignorance, lexical domain restriction and the Mandarin* wh-*numeral* jı̌. Poster at SuB31, Nantes Université. [Accepted but not presented] [[Abstract (pp. 114-116)]](https://drive.google.com/file/d/1UgCzqvnksUYZynWRATe0vBuCVmCGP6Vp/view) [[Poster]](assets/files/wh-ji_SuB31_poster.pdf)
+- Sep. 2026. *Ignorance, lexical domain restriction and the Mandarin* wh-*numeral* jı̌. Poster at **SuB31**, Nantes Université. [Accepted but not presented] [[Abstract (pp. 114-116)]](https://drive.google.com/file/d/1UgCzqvnksUYZynWRATe0vBuCVmCGP6Vp/view) [[Poster]](assets/files/wh-ji_SuB31_poster.pdf)
 
-- Jun. 2026. *Distinguishing Number and Degree in Mandarin*. Talk at TEAL-15, The Chinese University of Hong Kong.
+- Jun. 2026. *Distinguishing Number and Degree in Mandarin*. Talk at **TEAL-15**, The Chinese University of Hong Kong.
 
-- Nov. 2025. *A Unified Semantics of the Wh-Numeral* jı̌ *in Mandarin*. Talk at ICFL 2025, Guangdong University of Foreign Studies.
+- Nov. 2025. *A Unified Semantics of the Wh-Numeral* jı̌ *in Mandarin*. Talk at **ICFL 2025**, Guangdong University of Foreign Studies.
 
-- Sep. 2025. *Approximation via comparison: Mandarin* duō *in numerical expressions*. Talk at TripleA12, Tokyo University of Foreign Studies. [With Xuping Li]
+- Sep. 2025. *Approximation via comparison: Mandarin* duō *in numerical expressions*. Talk at **TripleA12**, Tokyo University of Foreign Studies. [With Xuping Li]
 
-- Apr. 2024. *Too many MANYs? Two MANYs only!*. Talk at The 3rd Symposium on Formal Approaches to Meaning in Chinese, Zhejiang University.
+- Apr. 2024. *Too many MANYs? Two MANYs only!*. Talk at **The 3rd Symposium on Formal Approaches to Meaning in Chinese**, Zhejiang University.
 
 ## Teaching
 
